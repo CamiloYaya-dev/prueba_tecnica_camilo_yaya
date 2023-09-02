@@ -1,0 +1,83 @@
+{
+    "get": [
+        {
+            "id": 1,
+            "title": "hello one"
+        },
+        {
+            "id": 2,
+            "title": "hello two"
+        },
+        {
+            "id": 3,
+            "title": "hello three"
+        },
+        {
+            "id": 4,
+            "title": "hello four"
+        },
+        {
+            "id": 5,
+            "title": "hello five"
+        }
+    ],
+    "put": [
+        {
+            "id": 1,
+            "title": "hello one edit",
+            "status": "edited"
+        },
+        {
+            "id": 2,
+            "title": "hello two edit",
+            "status": "edited"
+        },
+        {
+            "id": 3,
+            "title": "hello three edit",
+            "status": "edited"
+        },
+        {
+            "id": 4,
+            "title": "hello four edit",
+            "status": "edited"
+        },
+        {
+            "id": 5,
+            "title": "hello five edit",
+            "status": "edited"
+        }
+    ],
+    "delete": [
+        {
+            "id": 1,
+            "title": "hello one",
+            "status": "deleted"
+        },
+        {
+            "id": 2,
+            "title": "hello two",
+            "status": "deleted"
+        },
+        {
+            "id": 3,
+            "title": "hello three",
+            "status": "deleted"
+        },
+        {
+            "id": 4,
+            "title": "hello four",
+            "status": "deleted"
+        },
+        {
+            "id": 5,
+            "title": "hello five",
+            "status": "deleted"
+        }
+    ],
+    "post": {
+        "id": 6,
+        "title": "hello six",
+        "status": "created"
+    }
+}
